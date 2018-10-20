@@ -1,0 +1,11 @@
+{
+  "url" : "https://www.cellebritelearningcenter.com/",
+  "implicitInSeconds" : "15" ,
+  "pageToLoadInSeconds" : "75" ,
+  "explicitInSeconds" : "15",
+  "DbUrl" : "localhost",
+  "DbPort" : "5432",
+  "DbUser" : "hello",
+  "DbPassword" : "hello",
+  "DataBaseName" : "postgres"
+}
